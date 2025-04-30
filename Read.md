@@ -16,5 +16,3 @@ This project is a Jump & Snatch Game. It has been developed in Python programmin
 Name: Kierra B.
 
 Project Name: Jump & Snatch Game
-
-Github: https://github.com/russs123/Platformer
